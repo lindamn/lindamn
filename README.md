@@ -1,4 +1,6 @@
-## 🌱 hello there 🌱
+## hello there! 🌱
+
+### 🌱 about 
 👋🏻 Lindsay Anne D. Peñaranda 
 
 📖 3rd yr Computer Science Student 
@@ -7,7 +9,7 @@
 
 👩🏻 she/her
 
-## 🌱 socials 🌱
+### 🌱 socials
 LinkedIn: [Lindsay Anne Peñaranda](https://www.linkedin.com/in/ldpenaranda/)
 
 Email: ldpenaranda@up.edu.ph
