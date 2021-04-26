@@ -9,6 +9,7 @@
 
 👩🏻 she/her
 
+
 ### 🌱 socials
 LinkedIn: [Lindsay Anne Peñaranda](https://www.linkedin.com/in/ldpenaranda/)
 
