@@ -13,7 +13,7 @@
 ### 🌱 socials
 LinkedIn: [Lindsay Anne Peñaranda](https://www.linkedin.com/in/ldpenaranda/)
 
-Email: ldpenaranda@up.edu.ph
+Email: ldpenaranda@up.edu.ph / lindsay.anne.d.penaranda@gmail.com
 
 <!--
 **lindamn/lindamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
