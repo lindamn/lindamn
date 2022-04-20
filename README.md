@@ -3,7 +3,7 @@
 ### 🌱 about 
 👋🏻 Lindsay Anne D. Peñaranda 
 
-📖 3rd yr Computer Science Student 
+📖 4th yr Computer Science Student 
 
 🎓 University of the Philippines Los Baños 
 
